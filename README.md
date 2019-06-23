@@ -25,7 +25,7 @@ per eseguire il programma.
 
 -d e -f sono mutualmente esclusivi.
 
-###Esempi
+### Esempi
 ```
 ./drmario -s 0.5
 ```
